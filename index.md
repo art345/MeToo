@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: minimal
 title: Story telling through data
 subtitle: Nicky Minaj approved.
 ---
