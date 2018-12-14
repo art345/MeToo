@@ -32,7 +32,11 @@ Please select a hashtag to visualize the associated activity on Twitter.
 
 <h1> The most shared tweets </h1>
 
+<br>
+
 This is the tweet in our dataset that has been the most retweeted.
+
+<br>
 
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">The 16 women who accused Trump of sexual assault are telling their story in one video-please share this far &amp; wide. RT if you agree it’s time for Trump to be held accountable for his sexual misconduct.<a href="https://twitter.com/hashtag/TrumpSexPredator?src=hash&amp;ref_src=twsrc%5Etfw">#TrumpSexPredator</a> <a href="https://twitter.com/hashtag/AMJoy?src=hash&amp;ref_src=twsrc%5Etfw">#AMJoy</a> <a href="https://t.co/hNIqZEI54G">pic.twitter.com/hNIqZEI54G</a></p>&mdash; Scott Dworkin (@funder) <a href="https://twitter.com/funder/status/932703161596432384?ref_src=twsrc%5Etfw">20 novembre 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
