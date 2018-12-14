@@ -1,7 +1,7 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
-url: "http://art345.github.io/metoo-datastory"
-baseurl: "/metoo-datastory"
+url: "http://art345.github.io/metoo"
+baseurl: "/metoo"
 
 title: The MeToo movement
 description: We are a group of three EPFL students from Applied Data Analysis course.
