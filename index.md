@@ -17,7 +17,7 @@ subtitle: A story telling through data
 <br>
 
 <div style="text-align: justify">
-Hello everybody ! This is a datastory about the movement #metoo. I wish Nicki Minaj can read this. I am really found of her. Please stay strong. Good bye everybody. By default, all blog posts will have buttons at the bottom of the post to allow people to share the current page on Twitter/Facebook/LinkedIn. You can choose to enable/disable specific social media websites in the _config.yml file. You can also turn off the social media buttons on specific blog posts using social-share: false in the YAML front matter.
+The Me Too movement (or #MeToo movement), with many local and international alternative names, is a movement against sexual harassment and sexual assault. #MeToo spread virally in October 2017 as a hashtag on social media in an attempt to demonstrate the widespread prevalence of sexual assault and harassment, especially in the workplace. It followed soon after the sexual abuse allegations against Harvey Weinstein. Tarana Burke, an American social activist and community organizer, began using the phrase "Me Too" as early as 2006, and the phrase was later popularized by American actress Alyssa Milano, on Twitter in 2017. Milano encouraged victims of sexual harassment to tweet about it and "give people a sense of the magnitude of the problem". This was met with success that included but was not limited to high-profile posts from several American celebrities, including Gwyneth Paltrow, Ashley Judd, Jennifer Lawrence, and Uma Thurman.
 </div>
   
 <br>
@@ -26,7 +26,7 @@ Hello everybody ! This is a datastory about the movement #metoo. I wish Nicki Mi
   
 <h1> Explore the movement timeline </h1>
 
-Please select a hashtah to visualize the associated activity on Twitter.
+Please select a hashtag to visualize the associated activity on Twitter.
 
 {% include buttons.html %}
 </center>
