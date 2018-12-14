@@ -43,5 +43,14 @@ This is the tweet in our dataset that has been the most retweeted.
 
 </center>
 
+<div style="height:650px">
+  <div style="float:left; margin-right: 60px;">
+    <svg id="grid" width="550" height="600"></svg>
+  </div>
+  <div style="height: 350px; width: 150px; float:left;text-align:center;">
+    <div id="counter3" style="position: relative; top:60%; font-size: 400%"></div>
+  </div>
+</div>
+
 
 
