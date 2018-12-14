@@ -10,7 +10,9 @@ Hello everybody ! This is a datastory about the movement #metoo. I wish Nicki Mi
 
 <center>
   
-<h1> Timeline of the movement, by hashtag </h1>
+<h1> Explore the movement timeline </h1>
+
+Please select a hashtah to visualize the associated activity on Twitter.
 
 {% include buttons.html %}
 </center>
