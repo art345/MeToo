@@ -44,7 +44,7 @@ This is the tweet in our dataset that has been the most retweeted.
 </center>
 
 
-![Title](/img/past.svg) <!-- .element height="50%" width="50%" -->
+![Title](/img/past.png) 
 *Past*
 
 
