@@ -117,6 +117,29 @@ This is the tweet in our dataset that has been the most retweeted.
 
 <br>
 
+<h1> Sentimental Analysis for Gender </h1>
+<br>
+
+{% include bar_pyramidGender.html %}
+
+<br>
+
+<h1> Sentimental Analysis over Time </h1>
+
+<h1> Context & Thematics </h1>
+<br>
+
+{% include TimeSentimental2.html %}
+
+<br>
+
+<h1> Emotions & Implications </h1>
+<br>
+
+{% include TimeSentimental1.html %}
+
+<br>
+
 </center>
 
 
