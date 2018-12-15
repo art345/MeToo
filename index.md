@@ -70,7 +70,7 @@ This is the tweet in our dataset that has been the most retweeted.
 
 <br>
 
-<img src="img/icons/family.png" alt="Family" width="200"/>
+<img src="img/icons/family.png" title="Family" width="200"/>
 
 <br>
 
