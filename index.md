@@ -90,15 +90,15 @@ This is the tweet in our dataset that has been the most retweeted.
 <br>
 
 <h1> Implication, Group Dynamics and Certitude Analysis All Tweets </h1>
-<br>
-
-{% include style-barImpl.html %}
-
-<br>
 
 <br>
 
 <img src="img/icons/hear.png" title="Hear" width="50"/><img src="img/icons/cogmech.png" title="Cognitive Mechanisms" width="50"/><img src="img/icons/perception.png" title="Perception" width="50"/><img src="img/icons/see.png" title="See" width="50"/><img src="img/icons/feel.png" title="Feel" width="50"/><img src="img/icons/motion.png" title="Motion" width="50"/>
+
+<br>
+
+{% include style-barImpl.html %}
+
 
 <br>
 
@@ -109,7 +109,7 @@ This is the tweet in our dataset that has been the most retweeted.
 <h1> Positive or Negative Emotional Analysis All Tweets </h1>
 <br>
 
-<img src="img/icons/negemo.png" title="Negative Emotion" width="50"/><img src="img/icons/sad.png" title="Sadness" width="50"/><img src="img/icons/negate.png" title="Negation" width="50"/><img src="img/icons/anxiety.png" title="Anxiety" width="50"/><img src="img/icons/swear.png" title="Swearing" width="50"/><img src="img/icons/anger.png" title="Anger" width="50"/><img src="img/icons/posemo.png" title="Positive Emotion" width="50"/><img src="img/icons/anger.png" title="Anger" width="50"/><img src="img/icons/achiev.png" title="Achievement" width="50"/><img src="img/icons/assent.png" title="Assent" width="50"/>
+<img src="img/icons/negemo.png" title="Negative Emotion" width="50"/><img src="img/icons/sad.png" title="Sadness" width="50"/><img src="img/icons/negate.png" title="Negation" width="50"/><img src="img/icons/anxiety.png" title="Anxiety" width="50"/><img src="img/icons/swear.png" title="Swearing" width="50"/><img src="img/icons/anger.png" title="Anger" width="50"/><img src="img/icons/posemo.png" title="Positive Emotion" width="50"/><img src="img/icons/achiev.png" title="Achievement" width="50"/><img src="img/icons/assent.png" title="Assent" width="50"/>
 
 <br>
 
