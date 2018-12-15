@@ -17,6 +17,11 @@ subtitle: A story telling through data
 <br>
 
 <div style="text-align: justify">
+  
+  The aim of this project is to use a dataset of tweets containing the hashtag #metoo, in order to better understand the #MeToo movement.
+  The #MeToo movement is a global movement against sexual abuse. It spread virally in October 2017 as a hashtag used on social media in order to show the widespread phenomenon of sexual harassment, particularly in the workplace. The idea is to fearlessly talk about any sexual abuse one might experience and to rebel against the culture of staying silent after going through such traumatising experiences. A lot of celebrities participated in this movement by highlighting their stories on social media, including renowned actress, personalities, and politics, but also persons from simple backgrounds. As a team we are motivated to understand the movement because of its intensity and controverse. It is a challenge to put aside our personal opinion as individuals and consider only the data around this thematic to arrive to an interesting yet objective datastory.
+  
+  
 The Me Too movement (or #MeToo movement), with many local and international alternative names, is a movement against sexual harassment and sexual assault. #MeToo spread virally in October 2017 as a hashtag on social media in an attempt to demonstrate the widespread prevalence of sexual assault and harassment, especially in the workplace. It followed soon after the sexual abuse allegations against Harvey Weinstein. Tarana Burke, an American social activist and community organizer, began using the phrase "Me Too" as early as 2006, and the phrase was later popularized by American actress Alyssa Milano, on Twitter in 2017. Milano encouraged victims of sexual harassment to tweet about it and "give people a sense of the magnitude of the problem". This was met with success that included but was not limited to high-profile posts from several American celebrities, including Gwyneth Paltrow, Ashley Judd, Jennifer Lawrence, and Uma Thurman.
 </div>
   
