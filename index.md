@@ -70,7 +70,7 @@ This is the tweet in our dataset that has been the most retweeted.
 
 <br>
 
-![alt text](img/icons/family.png "family")
+![alt text](img/icons/family.png "family")![alt text](img/icons/friends.png "friends")![alt text](img/icons/religion.png "religion")![alt text](img/icons/leisure.png "leisure")![alt text](img/icons/work.png "work")![alt text](img/icons/home.png "home")
 
 <br>
 
