@@ -48,15 +48,6 @@ This is the tweet in our dataset that has been the most retweeted.
 *Past*
 
 
-<div style="height:650px">
-  <div style="float:left; margin-right: 60px;">
-    <svg id="grid" width="550" height="600"></svg>
-  </div>
-  <div style="height: 350px; width: 150px; float:left;text-align:center;">
-    <div id="counter3" style="position: relative; top:60%; font-size: 400%"></div>
-  </div>
-</div>
-
 <div>Icons made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
 
 <div>Icons made by <a href="https://www.flaticon.com/authors/epiccoders" title="EpicCoders">EpicCoders</a> from <a href="https://www.flaticon.com/" 	
