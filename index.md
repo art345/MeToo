@@ -52,7 +52,7 @@ This is the tweet in our dataset that has been the most retweeted.
 
 
 Past Category: 
-![alt text](images/past.png "Past Words")
+![alt text](img/past.png "Past Words")
 
 
 <div>Icons made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
