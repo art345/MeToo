@@ -76,5 +76,5 @@ This is the tweet in our dataset that has been the most retweeted.
 <div>Icons made by <a href="https://www.flaticon.com/authors/epiccoders" title="EpicCoders">EpicCoders</a> from <a href="https://www.flaticon.com/" 	
 
 
-
+![Percentage of Retweet in all the #metoo tweet dataset](img/newplot.png)
 
