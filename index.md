@@ -68,7 +68,7 @@ This is the tweet in our dataset that has been the most retweeted.
 
 <h1> Context Analysis All Tweets </h1>
 <br>
-![alt text](img/icons/family.png "Family")![alt text](img/icons/friends.png "Friends")
+![alt text](img/past.png "Past Words")![alt text](img/past.png "Past Words")
 
 {% include pieplotContext.html %}
 
