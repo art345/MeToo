@@ -63,6 +63,43 @@ This is the tweet in our dataset that has been the most retweeted.
 
 <br>
 
+<h1> Sentimental Analysis on All Tweets </h1>
+
+
+<h1> Context Analysis All Tweets </h1>
+<br>
+
+{% include pieplotContext.html %}
+
+<br>
+
+<h1> Thematics Analysis All Tweets </h1>
+<br>
+
+{% include pie_chartThematics.html %}
+
+<br>
+
+<h1> Implication, Group Dynamics and Certitude Analysis All Tweets </h1>
+<br>
+
+{% include style-barImpl.html %}
+
+<br>
+
+<br>
+
+{% include pie_chartImplicationHow.html %}
+
+<br>
+
+<h1> Positive or Negative Emotional Analysis All Tweets </h1>
+<br>
+
+{% include basic-barEmotions.html %}
+
+<br>
+
 </center>
 
 
