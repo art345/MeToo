@@ -244,7 +244,9 @@ We see that people tend to "hear" stories in an impersonnal and individualist ye
 <br><br>
 We can take as example the famously controversial tweet of DanBilzerian, subsequently deleted from Twitter:
 <br>
-" RT @DanBilzerian: This #metoo shit is getting out of control, guys getting their lives ruined over touching a girl's back or hitting on some "
+<q>
+"RT @DanBilzerian: This #metoo shit is getting out of control, guys getting their lives ruined over touching a girl's back or hitting on some."
+</q>
 <br>
 <center>
 <h1> Sentimental Analysis for Gender </h1>
