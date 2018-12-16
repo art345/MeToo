@@ -44,7 +44,7 @@ Please select a hashtag to visualize the associated activity on Twitter.
   
 <br><br>
 
-  <img src="/img/newplot.png" alt="Retweet percent" style="max-width: 300px;" ALIGN="right" HSPACE="30"/> An important thing to notice is that -- as in  most of the tweets within this movement are retweets. Indeed, almost 3 tweets over 4 are retweets. It shows that this mobilization is over all a process of sharing stories of others and showing support or disagreement. In any cases, this movement is not the expression of isolated testimonies.
+  <img src="/img/newplot.png" alt="Retweet percent" style="max-width: 300px;" ALIGN="right" HSPACE="30"/> An important thing to notice is that - as in a lot of social movements - most of these tweets are actually retweets. Indeed, almost 3 tweets over 4 are retweets. It shows that this mobilization is over all a process of sharing stories of others and showing support or disagreement. In any cases, this movement is not the expression of isolated testimonies.
 
 <br><br>
 
