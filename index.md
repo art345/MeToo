@@ -75,9 +75,12 @@ Here are the tweets in our dataset that have been the most retweeted.
 <br>
 
 <h1> Topic clustering </h1>
+<\center>
 
 In this interactive figure, you can visualize the main topics discussed among the movement. Click on "next topic" to visualize successively all the topics. You can also click on the words at the right to see in which cluster(s) it is the most frequent.
 
+<center>
+  
 <br><br>
 
 {% include topic_clustering.html %}
@@ -85,6 +88,8 @@ In this interactive figure, you can visualize the main topics discussed among th
 <br>
 
 <h1> Sentimental Analysis on All Tweets </h1>
+
+<\center>
 
   From all the tweets that were sent out with a #meToo, one can wonder what was the overall sentiment of these tweets. The sentimental analysis was performed using LIWC, a text analysis application called Linguistic Inquiry and Word Count: an efficient and effective method for studying the various emotional, cognitive, and structural components present in individuals’ verbal and written speech samples. [1] 
  <br>
