@@ -33,23 +33,23 @@ Let's begin by exploring the movement activity by hashtag, and let's try to corr
 The hashtag list has been arbitrarily chosen by us among the most frequent hashtags in our dataset, based on relevance and interest. Thereafter, we looked for the major events in the movement and in the period of time of our dataset. Here is the resulting event list :
 
 <ul>
-  <li> <b>9 November 2017</b> : *Accusation of Roy Moore*. In November 2017, nine women accused Roy Moore (a USA Senate candidate and a former Chief Justice of the Supreme Court of Alabama) of sexual misconduct. </li>
+  <li> <b>9 November 2017</b> : <i>Accusation of Roy Moore</i>. In November 2017, nine women accused Roy Moore (a USA Senate candidate and a former Chief Justice of the Supreme Court of Alabama) of sexual misconduct. </li>
   
-<li> <b>12 November 2017</b> : *Hollywood march*. Thousands of people marched in Los Angeles on Sunday in support of victims of sexual assault and harassment. </li>
+<li> <b>12 November 2017</b> : <i>Hollywood march</i>. Thousands of people marched in Los Angeles on Sunday in support of victims of sexual assault and harassment. </li>
 
-<li> <b>15 November 2017</b> : *MeToo congress act*. The METOO Congress Act (USA) opens the process to non-staffers and members, make the counseling and mediation process optional, and give accusers 180 days after the alleged incident to file a complaint. </li>
+<li> <b>15 November 2017</b> : <i>MeToo congress act</i>. The METOO Congress Act (USA) opens the process to non-staffers and members, make the counseling and mediation process optional, and give accusers 180 days after the alleged incident to file a complaint. </li>
 
-<li> <b>23 November 2017</b> : *Uma Thurman accuses Harvey Weinstein*. "I tried to say no, I cried, I did everything I could do. He told me the door was locked but I never ran over and tried the knob", Uma Thurman said. </li>
+<li> <b>23 November 2017</b> : <i>Uma Thurman accuses Harvey Weinstein</i>. "I tried to say no, I cried, I did everything I could do. He told me the door was locked but I never ran over and tried the knob", Uma Thurman said. </li>
 
-<li> <b>6 December 2017</b> : *Time's person of the year*. Time’s 2017 Person of the Year is the "Silence Breakers", i.e. the women and men of the #MeToo movement (*Time* is one of the main magazines in USA). </li>
+<li> <b>6 December 2017</b> : <i>Time's person of the year</i>. Time’s 2017 Person of the Year is the "Silence Breakers", i.e. the women and men of the #MeToo movement (*Time* is one of the main magazines in USA). </li>
 
-<li> <b>12 December 2017</b> : *Election for senate in Alabama*. These elections opposed the Democrat Doug Jones and the Republican Roy Moore (accused of sexual misconduct) for a USA Senate seat in Alabama. Doug Jones won. </li>
+<li> <b>12 December 2017</b> : <i>Election for senate in Alabama</i>. These elections opposed the Democrat Doug Jones and the Republican Roy Moore (accused of sexual misconduct) for a USA Senate seat in Alabama. Doug Jones won. </li>
 
-<li> <b>17 December 2017</b> : *Meryl Streep silence is pointed out*. "Actresses, like Meryl Streep, who happily worked for The Pig Monster, are wearing black @goldenglobes in a silent protest. YOUR SILENCE is THE problem. You’ll accept a fake award breathlessly & affect no real change. I despise your hypocrisy.", Rose McGowan said. </li>
+<li> <b>17 December 2017</b> : <i>Meryl Streep silence is pointed out</i>. "Actresses, like Meryl Streep, who happily worked for The Pig Monster, are wearing black @goldenglobes in a silent protest. YOUR SILENCE is THE problem. You’ll accept a fake award breathlessly & affect no real change. I despise your hypocrisy.", Rose McGowan said. </li>
 
-<li> <b>8 January 2018</b> : *Golden Globe's*. "For too long women have not been heard or believed if they dare speak the truth to the power of those men. But their time is up. Their time is up.”, said Oprah Winfrey duting her speech at the Golden Globe's. </li>
+<li> <b>8 January 2018</b> : <i>Golden Globe's</i>. "For too long women have not been heard or believed if they dare speak the truth to the power of those men. But their time is up. Their time is up.”, said Oprah Winfrey duting her speech at the Golden Globe's. </li>
 
-<li> <b>21 January 2018</b> : *Women's march* (USA). This march is aimed towards is to gather the political power of diverse women and their communities to create a change in the society. They strive to break down the system of oppression with the means of nonviolent action lead by morality and reverence. The #MeToo movement had become "a galvanizing force at many of the rallies".
+<li> <b>21 January 2018</b> : <i>Women's march</i> (USA). This march is aimed towards is to gather the political power of diverse women and their communities to create a change in the society. They strive to break down the system of oppression with the means of nonviolent action lead by morality and reverence. The #MeToo movement had become "a galvanizing force at many of the rallies".
 </ul>
 
 <br><br>
