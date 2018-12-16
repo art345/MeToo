@@ -133,6 +133,8 @@ This modeling allows to clearly identify topics like the topic #10 which seems t
 
 <h1> Sentimental Analysis, all tweets </h1>
 </center>
+<br><br>
+
   From all the tweets that were sent out with a #meToo, one can wonder what was the overall sentiment of these tweets. The sentimental analysis was performed using LIWC, a text analysis application called Linguistic Inquiry and Word Count: an efficient and effective method for studying the various emotional, cognitive, and structural components present in individuals’ verbal and written speech samples. [1] 
  <br>
   The analysis was applied with three aspects: on the overall data, on 30% of the data identified and separated by gender, and on data separated to correspond to each unique day over the entire time length.
