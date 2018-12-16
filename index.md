@@ -5,10 +5,11 @@ subtitle: A story telling through data
 ---
 
 <div style="text-align: justify">
-  <center>
   
+   <center>
 <h1> The #MeToo movement :</h1>
 <h3> A Temporal, Gender Based and Sentimental Perspective </h3>
+  </center>
 
 {% include wordcloud.html %}
 
@@ -259,7 +260,6 @@ It all boils down to someone, somewhere, telling their stories and others listen
 
 <br><br><br><br>
 
-</center>
 </div>
 
 <font size="2"> References:
