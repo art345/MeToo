@@ -108,7 +108,7 @@ This tweet from Ben Shapiro is interesting in the sense that it raises the quest
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">I talked to a girl who says she went on a date with <a href="https://twitter.com/azizansari?ref_src=twsrc%5Etfw">@azizansari</a> in an exclusive for <a href="https://twitter.com/babedotnet?ref_src=twsrc%5Etfw">@babedotnet</a>. She told me, &quot;It was by far the worst experience with a man I’ve ever had.&quot; I believe her. <a href="https://twitter.com/hashtag/TimesUp?src=hash&amp;ref_src=twsrc%5Etfw">#TimesUp</a> <a href="https://twitter.com/hashtag/MeToo?src=hash&amp;ref_src=twsrc%5Etfw">#MeToo</a> <a href="https://twitter.com/hashtag/AzizAnsari?src=hash&amp;ref_src=twsrc%5Etfw">#AzizAnsari</a> <a href="https://t.co/p7q0fjSsh0">https://t.co/p7q0fjSsh0</a></p>&mdash; Katie Way (@k80way) <a href="https://twitter.com/k80way/status/952327321431756801?ref_src=twsrc%5Etfw">13 janvier 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
-Finally, this tweet from Katie Way denounces Aziz Ansari, a famous American actor. Not surprisingly, all these popular tweets have in common that they denounce someone or something (Trump, Roy Moore, the double standard, Aziz Ansari).
+Finally, this tweet from Katie Way denounces Aziz Ansari, a famous American actor. Not surprisingly, all these popular tweets have in common that they denounce someone or something (Trump, Roy Moore, the double standard, Aziz Ansari). Moreover, these popular tweets are also at the origin of activity peaks. Indeed, these celebrities have a high number of followers, hence the sharing effect is exponential. 
 
 <br><br>
 
@@ -126,7 +126,7 @@ In this interactive figure, you can visualize the main topics discussed among th
 <center>
 {% include topic_clustering.html %}
   
-This modeling allows to clearly identify topics like the topic #10 which seems to be about Harvey Weinstein accusation, or topic #4, about Donald Trump accusation. They are of course coherent with the popular hashtags (#trumpsexprobe, #weinstein...).
+This modeling allows to clearly identify topics like the topic #10 which seems to be about Harvey Weinstein accusation, or topic #4, about Donald Trump accusation. They are of course coherent with the popular hashtags (#trumpsexprobe, #weinstein...). This method shows the diversity of topics among the tweets and within the movement ; but the main keywords remain present in every topic.
 
 <br>
 
