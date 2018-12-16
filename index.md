@@ -314,8 +314,6 @@ It all boils down to someone, somewhere, telling their stories and others listen
 
 <br><br><br><br>
 
-</div>
-
 <font size="2"> References:
  
 <br>
