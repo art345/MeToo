@@ -4,8 +4,8 @@ title: The MeToo movement
 subtitle: A story telling through data
 ---
 
-<center>
 <div style="text-align: justify">
+  <center>
   
 <h1> The #MeToo movement :</h1>
 <h3> A Temporal, Gender Based and Sentimental Perspective </h3>
@@ -41,7 +41,7 @@ The hashtag list has been arbitrarily chosen by us among the most frequent hasht
 
 <li> <b>23 November 2017</b> : <i>Uma Thurman accuses Harvey Weinstein</i>. "I tried to say no, I cried, I did everything I could do. He told me the door was locked but I never ran over and tried the knob", Uma Thurman said. </li>
 
-<li> <b>6 December 2017</b> : <i>Time's person of the year</i>. Time’s 2017 Person of the Year is the "Silence Breakers", i.e. the women and men of the #MeToo movement (*Time* is one of the main magazines in USA). </li>
+<li> <b>6 December 2017</b> : <i>Time's person of the year</i>. Time’s 2017 Person of the Year is the "Silence Breakers", i.e. the women and men of the #MeToo movement (<i>Time</i> is one of the main magazines in USA). </li>
 
 <li> <b>12 December 2017</b> : <i>Election for senate in Alabama</i>. These elections opposed the Democrat Doug Jones and the Republican Roy Moore (accused of sexual misconduct) for a USA Senate seat in Alabama. Doug Jones won. </li>
 
@@ -217,12 +217,10 @@ We can take as example the famously controversial tweet of DanBilzerian, subsequ
 <h1> Sentimental Analysis over Time </h1>
 
 <br>
-<div style="text-align: justify">
 By doing a sentimental analysis over time we wanted to see if some evolution in the themes, emotions, implications, etc. would pop up during the development of the #metoo movement and if some particular tendencies would be discernible in relation to certain events. 
 
 <br>
 <font size="2"> Note : to explore the following graphs you can double-click on the legend to isolate one trace (for example double-click on 'Body' to see only the dots corresponding to this category).</font>
-</div>
 
 <h1> Thematics & Context </h1>
 <br>
@@ -261,8 +259,8 @@ It all boils down to someone, somewhere, telling their stories and others listen
 
 <br><br><br><br>
 
-</div>
 </center>
+</div>
 
 <font size="2"> References:
  
