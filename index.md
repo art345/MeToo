@@ -131,7 +131,7 @@ This modeling allows to clearly identify topics like the topic #10 which seems t
 <br><br>
 <br><br>
 
-<h1> Sentimental Analysis on All Tweets </h1>
+<h1> Sentimental Analysis, all tweets </h1>
 </center>
   From all the tweets that were sent out with a #meToo, one can wonder what was the overall sentiment of these tweets. The sentimental analysis was performed using LIWC, a text analysis application called Linguistic Inquiry and Word Count: an efficient and effective method for studying the various emotional, cognitive, and structural components present in individuals’ verbal and written speech samples. [1] 
  <br>
@@ -144,7 +144,7 @@ This modeling allows to clearly identify topics like the topic #10 which seems t
 <br>
 
 <center>
-<h1> Thematics Analysis All Tweets </h1>
+<h1> Thematics analysis, all tweets </h1>
 <br>
 
 <img src="img/icons/bio.png" title="Biology: 'eat, blood, pain'" width="50"/><img src="img/icons/body.png" title="Body: 'cheek, hands, spit'" width="50"/> &nbsp; <img src="img/icons/social.png" title="Social: 'mate, talk, they'" width="50"/> &nbsp; <img src="img/icons/health.png" title="Health: 'clinic, flu, pill'" width="50"/> &nbsp; <img src="img/icons/human.png" title="Humans'" width="50"/> &nbsp; <img src="img/icons/death.png" title="Death: 'bury, coffin, kill'" width="50"/> &nbsp; <img src="img/icons/sexual.png" title="Sexual: 'horny, love, incest'" width="50"/> &nbsp; <img src="img/icons/money.png" title="Money: 'audit, cash, owe'" width="50"/>
@@ -164,7 +164,7 @@ This modeling allows to clearly identify topics like the topic #10 which seems t
 <br><br>
 
 <center>
-<h1> Context Analysis All Tweets </h1>
+<h1> Context analysis, all tweets </h1>
 
 <br>
 
@@ -192,7 +192,7 @@ People tend to speak in the past or future tenses. #meToo is not a spur of the m
 <br>
 
 <center>
-<h1> Implication, Group Dynamics and Certitude Analysis All Tweets </h1>
+<h1> Implication, group dynamics and certitude analysis, all tweets </h1>
 
 <br><br>
 
@@ -226,7 +226,7 @@ For group dynamics, the repetition of “we” and all plural forms of pronouns 
 We see that people tend to "hear" stories in an impersonnal and individualist yet assertive manner. This conforts the notion that #metoo is about storytelling and broadcasting to the world these stories. 
 <br>
 <center>
-<h1> Positive or Negative Emotional Analysis All Tweets </h1>
+<h1> Positive or negative emotional analysis, all tweets </h1>
 <br>
 
 <img src="img/icons/negemo.png" title="Negative Emotion: 'hurt, ugly, nasty'" width="50"/> &nbsp; <img src="img/icons/sad.png" title="Sadness: 'crying, grief, sad'" width="50"/> &nbsp; <img src="img/icons/negate.png" title="Negation: 'no, not, never'" width="50"/> &nbsp; <img src="img/icons/anxiety.png" title="Anxiety: 'worried, fearful'" width="50"/> &nbsp; <img src="img/icons/swear.png" title="Swearing: 'fuck, damn, shit'" width="50"/> &nbsp; <img src="img/icons/anger.png" title="Anger: 'hate, kill, annoyed'" width="50"/> &nbsp; <img src="img/icons/posemo.png" title="Positive Emotion: 'love, nice, sweet'" width="50"/> &nbsp; <img src="img/icons/achiev.png" title="Achievement" width="50"/> &nbsp; <img src="img/icons/assent.png" title="Assent:'agree, OK, yes'" width="50"/>
@@ -242,11 +242,7 @@ We see that people tend to "hear" stories in an impersonnal and individualist ye
   We observe both strong peaks of positive and negative emotions and attitudes. The “Assent” associated to #meToo can be seen as the approval and encouragement of those telling their stories. The “Negative Emotions” are inevitable as well, seeing the subject of sexual harassement and abuse surround #meToo. 
   However, we cannot distinguish if perhaps these negative emotions are perhaps against the movement itself. We are aware that some tweets in our dataset are outspokenly against the #meToo movement. 
 <br><br>
-We can take as example the famously controversial tweet of DanBilzerian, subsequently deleted from Twitter:
-<br>
-</div>
-> "RT @DanBilzerian: This #metoo shit is getting out of control, guys getting their lives ruined over touching a girl's back or hitting on some."
-<div style="text-align: justify">
+We can take as example the famously controversial tweet of DanBilzerian, subsequently deleted from Twitter: "RT @DanBilzerian: This #metoo shit is getting out of control, guys getting their lives ruined over touching a girl's back or hitting on some."
 <br>
 <center>
 <h1> Sentimental Analysis for Gender </h1>
