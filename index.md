@@ -145,9 +145,9 @@ We see that the #meToo phenomenon is a phenomenon that “hits close to home.”
 <h1> Temporal Speech </h1>
 <br>
 
-<img src="img/icons/past.png" title="Past: 48%" width="150"/> &nbsp; <img src="img/icons/present.png" title="Present: 4%" width="150"/> &nbsp; <img src="img/icons/future.png" title="Future: 48%" width="150"/> 
+<img src="img/icons/past.png" title="Past: 48%" width="100"/> &nbsp; <img src="img/icons/present.png" title="Present: 4%" width="100"/> &nbsp; <img src="img/icons/future.png" title="Future: 48%" width="100"/> 
 
-<br>
+<br><br>
 
 <div style="text-align: justify">
 People tend to speak in the past or future tenses. #meToo is not a spur of the moment occurrence using the present. It either reaches out to the past, like the many sexual abuse narrative resurfacing after decades, or latches on to the future, to change the mentalities through each user expressing their opinion on the stories being told.  
