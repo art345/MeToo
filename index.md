@@ -79,7 +79,7 @@ Here are the tweets in our dataset that have been the most retweeted.
 
 In this interactive figure, you can visualize the main topics discussed among the movement. Click on "next topic" to visualize successively all the topics. You can also click on the words at the right to see in which cluster(s) it is the most frequent.
 
-<\div>
+</div>
   
 <br><br>
 
@@ -98,7 +98,7 @@ In this interactive figure, you can visualize the main topics discussed among th
   For the initial analysis conducted on the overall data, all LIWC categories of the analysis are presented above each graph using icons. We invite you to hover over the icons to learn what these categories are and what are the words that LIWC uses to identify these categories.
 <br>
   Regarding the percentages and numbers presented, all percentages were rounded up for a cleaner presentation. Hence no numbers are absolutes, all numbers serve to give you a feeling over the dataset. The most pertinent way to look at the number of a category is to consider it respectively to the other percentage numbers of the other categories in that same analysis.
-<\div>
+</div>
 
 <h1> Context Analysis All Tweets </h1>
 
@@ -114,7 +114,7 @@ In this interactive figure, you can visualize the main topics discussed among th
 
 <div style="text-align: justify">
 We see that the #meToo phenomenon is a phenomenon that “hits close to home.”  Family and friends are contexts that are recurrent in the tweet’s speech. We feel people are being affected in their personal lives and either show or gain support from their friends and family.
-<\div>
+</div>
 
 <h1> Thematics Analysis All Tweets </h1>
 <br>
@@ -135,7 +135,7 @@ We see that the #meToo phenomenon is a phenomenon that “hits close to home.”
   We observe that the following recurrent thematics are notably the body and health, which echo in the Topic Clustering thematics such as “assault” and “violence,” correlated to these thematics. 
 <br>
   The “social” thematic of the pie chart can be linked to Topic Clustering elements such as “share” and “story” indicating a social communication on the #meToo matter. 
-<\div>
+</div>
 
 
 <h1> Implication, Group Dynamics and Certitude Analysis All Tweets </h1>
@@ -169,7 +169,7 @@ For group dynamics, the repetition of “we” and all plural forms of pronouns 
   Was the implication personal or impersonal? For a “personal” implication measurement we considered pronouns including the speaker such as “We” and “I”, while impersonal was defined as pronouns differentiating themselves from the speaker such as “You” and “They.”
 <br>
   The level of certitude of the speakers was also assessed. It can be observed that those using #meToo, use a language of certainty. This could be due to the speaker’s resolve to speak out and strong opinions on the matter. 
-<\div>
+</div>
   
 <h1> Positive or Negative Emotional Analysis All Tweets </h1>
 <br>
@@ -192,7 +192,7 @@ For group dynamics, the repetition of “we” and all plural forms of pronouns 
 We can take as example the famously controversial tweet of DanBilzerian, subsequently deleted from Twitter:
 <br>
 " RT @DanBilzerian: This #metoo shit is getting out of control, guys getting their lives ruined over touching a girl's back or hitting on some "
-<\div>
+</div>
   
 <h1> Sentimental Analysis for Gender </h1>
 <br>
@@ -205,7 +205,7 @@ We can take as example the famously controversial tweet of DanBilzerian, subsequ
   Using the program, GenderPerformr [2], we were able to allocate a gender (Female, Male or Neutral) to 30% of all our tweets. Due to this small percentage (and even smaller if we consider only Male and Female), we urge the reader to remain aware that the following analysis does NOT apply to the entire data. 
 <br>
   For those users identified with certainty as male and female, we performed a LIWC sentimental analysis. The results are surprisingly similar for both genders, suggesting that #meToo is a human battle and not a battle of gender. The only notable differences are that women appear more certain than men, while being more individualist and impersonal in their manner of speech. The two last aspects can be potentially associated to a protection mechanism due to the heavy psychological burden of sexual harassement.
-<\div>
+</div>
 
 <h1> Sentimental Analysis over Time </h1>
 
