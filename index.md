@@ -129,11 +129,10 @@ In this interactive figure, you can visualize the main topics discussed among th
 This modeling allows to clearly identify topics like the topic #10 which seems to be about Harvey Weinstein accusation, or topic #4, about Donald Trump accusation. They are of course coherent with the popular hashtags (#trumpsexprobe, #weinstein...). This method shows the diversity of topics among the tweets and within the movement ; but the main keywords remain present in every topic.
 
 <br><br>
+<br><br>
 
 <h1> Sentimental Analysis on All Tweets </h1>
 </center>
-<br>
-
   From all the tweets that were sent out with a #meToo, one can wonder what was the overall sentiment of these tweets. The sentimental analysis was performed using LIWC, a text analysis application called Linguistic Inquiry and Word Count: an efficient and effective method for studying the various emotional, cognitive, and structural components present in individuals’ verbal and written speech samples. [1] 
  <br>
   The analysis was applied with three aspects: on the overall data, on 30% of the data identified and separated by gender, and on data separated to correspond to each unique day over the entire time length.
