@@ -117,12 +117,16 @@ Finally, this tweet from Katie Way denounces Aziz Ansari, a famous American acto
 
 <br><br>
 
+In this section, we identify which topics are discussed in this movement, through topic modelling and more particularly Latent Dirichlet Allocation (LDA). It is an unsupervised machine learning method that helps discover hidden semantic structures and allows to learn topic representations of tweets and finally to identify topics.
+
 In this interactive figure, you can visualize the main topics discussed among the movement. Click on "next topic" to visualize successively all the topics. You can also click on the words at the right to see in which cluster(s) it is the most frequent.
   
 <br><br>
 
 <center>
 {% include topic_clustering.html %}
+  
+This modeling allows to clearly identify topics like the topic #10 which seems to be about Harvey Weinstein accusation, or topic #4, about Donald Trump accusation. They are of course coherent with the popular hashtags (#trumpsexprobe, #weinstein...).
 
 <br>
 
