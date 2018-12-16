@@ -8,7 +8,7 @@ subtitle: A story telling through data
   
 <h1> The #MeToo movement :</h1>
 <br>
-<h1> A Temporal, Gender Based and Sentimental Perspective </h1>
+<h2> A Temporal, Gender Based and Sentimental Perspective </h2>
 
 </center>
 
