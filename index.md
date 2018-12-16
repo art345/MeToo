@@ -143,6 +143,8 @@ This is the tweet in our dataset that has been the most retweeted.
 
 <br>
 
+<img src="newplot.jpg" alt="Retweet percent">
+
 </center>
 
 ![Percentage of Retweet in all the #metoo tweet dataset](/img/newplot.png)
