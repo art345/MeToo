@@ -86,6 +86,13 @@ In this interactive figure, you can visualize the main topics discussed among th
 
 <h1> Sentimental Analysis on All Tweets </h1>
 
+From all the tweets that were sent out with a #meToo, one can wonder what was the overall sentiment of these tweets. The sentimental analysis was performed using LIWC, a text analysis application called Linguistic Inquiry and Word Count: an efficient and effective method for studying the various emotional, cognitive, and structural components present in individuals’ verbal and written speech samples. [1] 
+
+The analysis was applied with three aspects: on the overall data, on 30% of the data identified and separated by gender, and on data separated to correspond to each unique day over the entire data.
+
+For the initial analysis conducted on the overall data, all LIWC categories of the analysis are presented above each graph using icons. We invite you to hover over the icons to learn what these categories are and what are the words that LIWC uses to identify these categories.
+
+Regarding the percentages and numbers presented, all percentages were rounded up for a cleaner presentation. Hence no numbers are absolutes, all numbers serve to give you a feeling over the dataset. The most pertinent way to look at the number of a category is to consider it respectively to the other percentage numbers of the other categories in that same analysis.
 
 <h1> Context Analysis All Tweets </h1>
 
@@ -99,6 +106,8 @@ In this interactive figure, you can visualize the main topics discussed among th
 
 <br>
 
+We see that the #meToo phenomenon is a phenomenon that “hits close to home.”  Family and friends are contexts that are recurrent in the tweet’s speech. We feel people are being affected in their personal lives and either show or gain support from their friends and family.
+
 <h1> Thematics Analysis All Tweets </h1>
 <br>
 
@@ -110,6 +119,15 @@ In this interactive figure, you can visualize the main topics discussed among th
 
 <br>
 
+“Biology” includes all biological processes, ranging from eating to more sexual terms such as “sex.” On the other hands, due to LIWC’s definition of “Sexual”, much more graphic and precise sexual terms, we can understand that none of that language appears in our tweets. 
+
+Hence “Biology” would incorporate the terms most recurrent that we also see in the Topic Clustering such as, “sexuality.”
+
+We observe that the following recurrent thematics are notably the body and health, which echo in the Topic Clustering thematics such as “assault” and “violence,” correlated to these thematics. 
+
+The “social” thematic of the pie chart can be linked to Topic Clustering elements such as “share” and “story” indicating a social communication on the #meToo matter. 
+
+
 <h1> Implication, Group Dynamics and Certitude Analysis All Tweets </h1>
 
 <br>
@@ -120,12 +138,27 @@ In this interactive figure, you can visualize the main topics discussed among th
 
 {% include style-barImpl.html %}
 
-
 <br>
 
 {% include pie_chartImplicationHow.html %}
 
 <br>
+
+The implication and group dynamics of the movement could be investigated using LIWC. 
+
+The pie chart attempts to see how people are implicating themselves. We find that hearing is a recurrent manner. Indeed, Twitter is all about telling your story and having people listen and read it. #meToo is all about spreading the word. 
+
+Insight and Cognitive Mechanisms indicate opinions and explanations, people are either commenting or reasoning on the stories being told: stories are not being left as such but are interpreted and processed by the readers. 
+
+On the opposite spectrum we see that motion is only a small percentage, hence it seems that the #meToo presented in these tweets is not a call to action but more a story telling.
+
+
+For group dynamics, the repetition of “we” and all plural forms of pronouns were considered, as opposed to singular pronouns such as “you” and “I” for an individualist dynamic. 
+
+Was the implication personal or impersonal? For a “personal” implication measurement we considered pronouns including the speaker such as “We” and “I”, while impersonal was defined as pronouns differentiating themselves from the speaker such as “You” and “They.”
+
+The level of certitude of the speakers was also assessed. It can be observed that those using #meToo, use a language of certainty. This could be due to the speaker’s resolve to speak out and strong opinions on the matter. 
+
 
 <h1> Positive or Negative Emotional Analysis All Tweets </h1>
 <br>
@@ -138,12 +171,24 @@ In this interactive figure, you can visualize the main topics discussed among th
 
 <br>
 
+#meToo being a highly personal movement of individuals telling their story, it was essential to get a notion of the overall feelings circulating in the text of the tweets. 
+
+We observe both strong peaks of positive and negative emotions and attitudes. The “Assent” associated to #meToo can be seen as the approval and encouragement of those telling their stories. The “Negative Emotions” are inevitable as well, seeing the subject of sexual harassement and abuse surround #meToo. 
+
+However, we cannot distinguish if perhaps these negative emotions are perhaps against the movement itself. We are aware that some tweets in our dataset are outspokenly against the #meToo movement. 
+
 <h1> Sentimental Analysis for Gender </h1>
 <br>
 
 {% include bar_pyramidGender.html %}
 
 <br>
+
+Using the program, GenderPerformr [2], we were able to allocate a gender (Female, Male or Neutral) to 30% of all our tweets. Due to this small percentage (and even smaller if we consider only Male and Female), we urge the reader to remain aware that the following analysis does NOT apply to the entire data. 
+
+For those users identified with certainty as male and female, we performed a LIWC sentimental analysis. The results are surprisingly similar for both genders, suggesting that #meToo is a human battle and not a battle of gender. 
+
+The only notable differences are that women appear more certain than men, while being more individualist and impersonal in their manner of speech. The two last aspects can be potentially associated to a protection mechanism due to the heavy psychological burden of sexual harassement.
 
 <h1> Sentimental Analysis over Time </h1>
 
@@ -164,7 +209,89 @@ In this interactive figure, you can visualize the main topics discussed among th
 </center>
 
 
+<h1> References </h1> 
 
+[1]	J. W. Pennebaker, R. L. Boyd, K. Jordan, and K. Blackburn, “The Development and Psychometric Properties of LIWC2015,” p. 26.
+[2]	Z. Wang and D. Jurgens, “It’s going to be okay: Measuring Access to Support in Online Communities,” p. 13.
+
+Icons: 
+<div>Icons made by <a href="https://www.flaticon.com/authors/stephen-hutchings" title="Stephen Hutchings">Stephen Hutchings</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+
+<div>Icons made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/stephen-hutchings" title="Stephen Hutchings">Stephen Hutchings</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/mynamepong" title="mynamepong">mynamepong</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/geotatah" title="geotatah">geotatah</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/photo3idea-studio" title="photo3idea_studio">photo3idea_studio</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+
+<div>Icons made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/geotatah" title="geotatah">geotatah</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/geotatah" title="geotatah">geotatah</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/mynamepong" title="mynamepong">mynamepong</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/gregor-cresnar" title="Gregor Cresnar">Gregor Cresnar</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/pause08" title="Pause08">Pause08</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/good-ware" title="Good Ware">Good Ware</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/becris" title="Becris">Becris</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/prettycons" title="prettycons">prettycons</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/zlatko-najdenovski" title="Zlatko Najdenovski">Zlatko Najdenovski</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/srip" title="srip">srip</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/ocha" title="OCHA">OCHA</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/good-ware" title="Good Ware">Good Ware</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
 
 
 
