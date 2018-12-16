@@ -1,12 +1,12 @@
 ---
 layout: default
-title: The MeToo movement
+title: The MeToo movement: A story telling through data
 subtitle: A story telling through data
 ---
 
 <center>
   
-<h1> The #MeToo movement : a story telling through data </h1>
+<h1> The #MeToo movement : a Temporal, Gender Based and Sentimental Analysis </h1>
 
 </center>
 
@@ -137,11 +137,22 @@ In this interactive figure, you can visualize the main topics discussed among th
 We see that the #meToo phenomenon is a phenomenon that “hits close to home.”  Family and friends are contexts that are recurrent in the tweet’s speech. We feel people are being affected in their personal lives and either show or gain support from their friends and family.
 </div>
 
+<h1> Temporal Speech </h1>
+<br>
+
+<img src="img/icons/past.png" title="Past: 48%" width="150"/> &nbsp; <img src="img/icons/present.png" title="Present: 4%" width="150"/> &nbsp; <img src="img/icons/future.png" title="Future: 48%" width="150"/> 
+
+<br>
+
+<div style="text-align: justify">
+People tend to speak in the past or future tenses. #meToo is not a spur of the moment occurrence using the present. It either reaches out to the past, like the many sexual abuse narrative resurfacing after decades, or latches on to the future, to change the mentalities through each user expressing their opinion on the stories being told.  
+ </div>
+
+
 
 <h1> Implication, Group Dynamics and Certitude Analysis All Tweets </h1>
 
 <img src="img/icons/I.png" title="I" width="50"/> &nbsp; <img src="img/icons/you.png" title="You" width="50"/>&nbsp; <img src="img/icons/shehe.png" title="She / He" width="50"/>&nbsp; <img src="img/icons/we.png" title="We" width="50"/> &nbsp; <img src="img/icons/they.png" title="They" width="50"/> &nbsp; <img src="img/icons/award.png" title="Achievement" width="50"/>&nbsp; <img src="img/icons/certain.png" title="Certainty: 'always, never'" width="50"/>&nbsp; <img src="img/icons/uncertain.png" title="Tentative: 'maybe, perhaps'" width="50"/> 
-
 
 <br>
 
@@ -257,9 +268,11 @@ It all boils down to someone, somewhere, telling their stories and others listen
 </div>
 </center>
 
+<br><br><br><br>
 
-<h1> References </h1> 
-
+<font size="4"> References:
+ 
+<br>
 [1]	J. W. Pennebaker, R. L. Boyd, K. Jordan, and K. Blackburn, “The Development and Psychometric Properties of LIWC2015,” p. 26.
 <br>
 [2]	Z. Wang and D. Jurgens, “It’s going to be okay: Measuring Access to Support in Online Communities,” p. 13.
@@ -296,5 +309,5 @@ Icons:
 
 <div>Icons made by <a href="https://www.flaticon.com/authors/ocha" title="OCHA">OCHA</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
 
-
+</font>
 
