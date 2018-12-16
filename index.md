@@ -180,7 +180,7 @@ This modeling allows to clearly identify topics like the topic #10 which seems t
 We see that the #meToo phenomenon is a phenomenon that “hits close to home.”  Family and friends are contexts that are recurrent in the tweet’s speech. We feel people are being affected in their personal lives and either show or gain support from their friends and family.
 <br>
 <center>
-<h1> Temporal Speech </h1>
+<h1> Temporal speech </h1>
 <br>
 
 <img src="img/icons/past.png" title="Past: 48%" width="100"/> &nbsp; <img src="img/icons/present.png" title="Present: 4%" width="100"/> &nbsp; <img src="img/icons/future.png" title="Future: 48%" width="100"/> 
@@ -245,7 +245,7 @@ We see that people tend to "hear" stories in an impersonnal and individualist ye
 We can take as example the famously controversial tweet of DanBilzerian, subsequently deleted from Twitter: "RT @DanBilzerian: This #metoo shit is getting out of control, guys getting their lives ruined over touching a girl's back or hitting on some."
 <br>
 <center>
-<h1> Sentimental Analysis for Gender </h1>
+<h1> Sentimental analysis for gender </h1>
 <br>
 
 {% include bar_pyramidGender.html %}
@@ -260,7 +260,7 @@ We can take as example the famously controversial tweet of DanBilzerian, subsequ
 <br><br>
 
 <center>
-<h1> Sentimental Analysis over Time </h1>
+<h1> Sentimental analysis over time </h1>
 </center>
 
 <br>
@@ -270,7 +270,7 @@ By doing a sentimental analysis over time we wanted to see if some evolution in 
 <font size="2"> Note : to explore the following graphs you can double-click on the legend to isolate one trace (for example double-click on 'Body' to see only the dots corresponding to this category).</font>
 
 <center>
-<h1> Thematics & Context </h1>
+<h1> Thematics & context </h1>
 </center>
 <br>
 The thematics analysis doesn't show any huge trends. We can still notice an increase in the "social" category up to the 21st of January corresponding to the Women's March 2018. In deed the "social" category of LIWC includes the word "woman".
@@ -285,7 +285,7 @@ The context analysis on the other hand shows some interesting tendencies. For ex
 
 <br>
 
-<h1> Emotions & Implications </h1>
+<h1> Emotions & implications </h1>
 <br>
 </center>
 
