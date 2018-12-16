@@ -100,22 +100,6 @@ In this interactive figure, you can visualize the main topics discussed among th
   Regarding the percentages and numbers presented, all percentages were rounded up for a cleaner presentation. Hence no numbers are absolutes, all numbers serve to give you a feeling over the dataset. The most pertinent way to look at the number of a category is to consider it respectively to the other percentage numbers of the other categories in that same analysis.
 </div>
 
-<h1> Context Analysis All Tweets </h1>
-
-<br>
-
-<img src="img/icons/family.png" title="Family: 'daughter, dad, aunt' " width="50"/> &nbsp; <img src="img/icons/friends.png" title="Friends: 'buddy, neighbor'" width="50"/> &nbsp; <img src="img/icons/religion.png" title="Religion: 'altar, church'" width="50"/>  <img src="img/icons/leisure.png" title="Leisure: 'cook, chat, movie'" width="50"/>  &nbsp; <img src="img/icons/work.png" title="Work: 'job, majors'" width="50"/> &nbsp; <img src="img/icons/home.png" title="Home: 'kitchen, landlord'" width="50"/>
-
-<br>
-
-{% include pieplotContext.html %}
-
-<br>
-
-<div style="text-align: justify">
-We see that the #meToo phenomenon is a phenomenon that “hits close to home.”  Family and friends are contexts that are recurrent in the tweet’s speech. We feel people are being affected in their personal lives and either show or gain support from their friends and family.
-</div>
-
 <h1> Thematics Analysis All Tweets </h1>
 <br>
 
@@ -135,6 +119,22 @@ We see that the #meToo phenomenon is a phenomenon that “hits close to home.”
   We observe that the following recurrent thematics are notably the body and health, which echo in the Topic Clustering thematics such as “assault” and “violence,” correlated to these thematics. 
 <br>
   The “social” thematic of the pie chart can be linked to Topic Clustering elements such as “share” and “story” indicating a social communication on the #meToo matter. 
+</div>
+
+<h1> Context Analysis All Tweets </h1>
+
+<br>
+
+<img src="img/icons/family.png" title="Family: 'daughter, dad, aunt' " width="50"/> &nbsp; <img src="img/icons/friends.png" title="Friends: 'buddy, neighbor'" width="50"/> &nbsp; <img src="img/icons/religion.png" title="Religion: 'altar, church'" width="50"/>  <img src="img/icons/leisure.png" title="Leisure: 'cook, chat, movie'" width="50"/>  &nbsp; <img src="img/icons/work.png" title="Work: 'job, majors'" width="50"/> &nbsp; <img src="img/icons/home.png" title="Home: 'kitchen, landlord'" width="50"/>
+
+<br>
+
+{% include pieplotContext.html %}
+
+<br>
+
+<div style="text-align: justify">
+We see that the #meToo phenomenon is a phenomenon that “hits close to home.”  Family and friends are contexts that are recurrent in the tweet’s speech. We feel people are being affected in their personal lives and either show or gain support from their friends and family.
 </div>
 
 
@@ -236,7 +236,7 @@ The context analysis on the other hand shows some interesting tendencies. For ex
 <h1> Emotions & Implications </h1>
 <br>
 <div style="text-align: justify">
-The more noticeable tendency on those graphs might be the connection between negative/positive emotions and respectively personal(solo)/impersonal(group) implication. 
+The more noticeable tendency on those graphs might be the connection between negative/positive emotions, personal/impersonal implication and solo/group dynamic.
 <br>
 
 We can observe that the pics of negative emotions almost always correspond to a pic in the impersonal ('You', 'He/She', 'They')  implication and a pic in the solo ('I', 'You', 'He') dynamic. One way to interpret it is to imagine that most of the solo and impersonal tweets are the one with a 'he/she' word in it so are about sharing an other person abuse story or accusing someone. 
