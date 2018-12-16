@@ -78,7 +78,7 @@ Here are the tweets in our dataset that have been the most retweeted.
 
 In this interactive figure, you can visualize the main topics discussed among the movement. Click on "next topic" to visualize successively all the topics. You can also click on the words at the right to see in which cluster(s) it is the most frequent.
 
-<br>
+<br><br>
 
 {% include topic_clustering.html %}
 
