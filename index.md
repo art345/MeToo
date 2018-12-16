@@ -128,7 +128,7 @@ In this interactive figure, you can visualize the main topics discussed among th
   
 This modeling allows to clearly identify topics like the topic #10 which seems to be about Harvey Weinstein accusation, or topic #4, about Donald Trump accusation. They are of course coherent with the popular hashtags (#trumpsexprobe, #weinstein...). This method shows the diversity of topics among the tweets and within the movement ; but the main keywords remain present in every topic.
 
-<br>
+<br><br>
 
 <h1> Sentimental Analysis on All Tweets </h1>
 </center>
@@ -141,6 +141,8 @@ This modeling allows to clearly identify topics like the topic #10 which seems t
   For the initial analysis conducted on the overall data, all LIWC categories of the analysis are presented above each graph using icons. We invite you to hover over the icons to learn what these categories are and what are examples of the words that LIWC uses to identify these categories.
 <br>
   Regarding the percentages and numbers presented, all percentages were rounded up for a cleaner presentation. Hence no numbers are absolutes, all numbers serve to give you a feeling over the dataset. The most pertinent way to look at the number of a category is to consider it respectively to the other percentage numbers of the other categories in that same analysis.
+
+<br>
 
 <center>
 <h1> Thematics Analysis All Tweets </h1>
@@ -160,7 +162,7 @@ This modeling allows to clearly identify topics like the topic #10 which seems t
   Hence “Biology” would incorporate the terms most recurrent that we also see in the Topic Clustering such as, “sexuality.”
 <br>
   We observe that the following recurrent thematics are notably the body and health, which echo the Topic Clustering thematics such as “assault” and “violence,” correlated to body and health. The “social” thematic of the pie chart can be linked to Topic Clustering elements such as “share” and “story” indicating a social communication on the #meToo matter. 
-<br>
+<br><br>
 
 <center>
 <h1> Context Analysis All Tweets </h1>
@@ -177,7 +179,7 @@ This modeling allows to clearly identify topics like the topic #10 which seems t
 <br>
 
 We see that the #meToo phenomenon is a phenomenon that “hits close to home.”  Family and friends are contexts that are recurrent in the tweet’s speech. We feel people are being affected in their personal lives and either show or gain support from their friends and family.
-
+<br>
 <center>
 <h1> Temporal Speech </h1>
 <br>
@@ -188,7 +190,7 @@ We see that the #meToo phenomenon is a phenomenon that “hits close to home.”
 <br><br>
 
 People tend to speak in the past or future tenses. #meToo is not a spur of the moment occurrence using the present. It either reaches out to the past, like the many sexual abuse narrative resurfacing after decades, or latches on to the future, to change the mentalities through each user expressing their opinion on the stories being told.  
-
+<br>
 
 <center>
 <h1> Implication, Group Dynamics and Certitude Analysis All Tweets </h1>
@@ -223,7 +225,7 @@ For group dynamics, the repetition of “we” and all plural forms of pronouns 
 <br><br>
 
 We see that people tend to "hear" stories in an impersonnal and individualist yet assertive manner. This conforts the notion that #metoo is about storytelling and broadcasting to the world these stories. 
-  
+<br>
 <center>
 <h1> Positive or Negative Emotional Analysis All Tweets </h1>
 <br>
@@ -244,7 +246,7 @@ We see that people tend to "hear" stories in an impersonnal and individualist ye
 We can take as example the famously controversial tweet of DanBilzerian, subsequently deleted from Twitter:
 <br>
 " RT @DanBilzerian: This #metoo shit is getting out of control, guys getting their lives ruined over touching a girl's back or hitting on some "
-  
+<br>
 <center>
 <h1> Sentimental Analysis for Gender </h1>
 <br>
@@ -301,6 +303,7 @@ Indeed we can observe that the spikes of negative emotions almost always corresp
 <br>
 
 <h1>What does this all add up to ? ...</h1>
+<br><br>
 </center>
 
 #metoo was and remains a very complex movement with an immense diversity of thematics and contexts. Our dataset covers a limited time lapse but it seems the #metoo movement is here to last. <br><br>
