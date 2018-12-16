@@ -44,7 +44,7 @@ Please select a hashtag to visualize the associated activity on Twitter.
   
 <br><br>
 
-  <img src="/img/newplot.png" alt="Retweet percent" style="max-width: 300px;" ALIGN="right" HSPACE="30"/> An important thing to notice is that - as in a lot of social movements - most of these tweets are actually retweets. Indeed, almost 3 tweets over 4 are retweets. It shows that this mobilization is over all a process of sharing stories of others and showing support or disagreement. In any cases, this movement is not the expression of isolated testimonies.
+  <img src="/img/newplot.png" alt="Retweet percent" style="max-width: 300px;" ALIGN="right" HSPACE="30"/> An important thing to notice is that - as in a lot of movements on Twitter - most of these tweets are actually retweets. Indeed, it is the case for almost 3 tweets over 4. Thus, in any cases, we cannot talk about isolated testimonies. It shows that this mobilization is over all a process of sharing stories of others by showing support or disagreement. Twitter hence enables the connection of persons worldwide to develop a base and gain awareness to the cause. (+ add something about slacktivism)
 
 <br><br>
 
