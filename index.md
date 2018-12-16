@@ -40,8 +40,6 @@ Please select a hashtag to visualize the associated activity on Twitter.
 
 {% include buttons.html %}
 
-{% include historic_info.html %}
-
 <h1> The most shared tweets </h1>
 
 <br>
