@@ -84,7 +84,11 @@ In this interactive figure, you can visualize the main topics discussed among th
   
 <br><br>
 
+<center>
+<div style="text-align: justify">
 {% include topic_clustering.html %}
+</div>
+</center>
 
 <br>
 
