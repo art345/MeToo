@@ -73,7 +73,7 @@ Resulting from this process, in the interactive figure below, you can select a h
 
 <br><br>
 
-Here are the tweets in our dataset that have been the most retweeted.
+Below, you can find the tweets in our dataset that have been the most retweeted. They are a good representation of the movement in the sense that they drove its activity.
 
 <br><br>
 
@@ -82,8 +82,16 @@ Here are the tweets in our dataset that have been the most retweeted.
 
 <br><br>
 
+This first tweet is from Scott Dworkin, who is part of The Democratic Coalition, an opposition movement against Donald Trump. In his tweet, he denounces the sexual misconduct of Donald Trump with a video (trailer) describing the testimonies of 16 women.
+
+<br><br>
+
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">I mean, what world are we living in that an accused sexual abuser is allowed to be our President and an accused pedophile is allowed to run for senate? These two things have many things in common - one of which - is the Republican National Committee. <a href="https://twitter.com/hashtag/MeToo?src=hash&amp;ref_src=twsrc%5Etfw">#MeToo</a></p>&mdash; Alyssa Milano (@Alyssa_Milano) <a href="https://twitter.com/Alyssa_Milano/status/938186096080506882?ref_src=twsrc%5Etfw">5 décembre 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<br><br>
+
+This one is from Alyssa Milano, one of the persons at the origin of the movement. Here again, the sexual misconduct of Donald Trump is denounced, as well as the sexual misconduct of Roy Moore (implicitly).
 
 <br><br>
 
@@ -91,8 +99,16 @@ Here are the tweets in our dataset that have been the most retweeted.
 
 <br><br>
 
+This tweet from Ben Shapiro is interesting in the sense that it raises the question of "double standard" : is it accepted (and trusted) if a man denounces a woman for sexual harassment ?
+
+<br><br>
+
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">I talked to a girl who says she went on a date with <a href="https://twitter.com/azizansari?ref_src=twsrc%5Etfw">@azizansari</a> in an exclusive for <a href="https://twitter.com/babedotnet?ref_src=twsrc%5Etfw">@babedotnet</a>. She told me, &quot;It was by far the worst experience with a man I’ve ever had.&quot; I believe her. <a href="https://twitter.com/hashtag/TimesUp?src=hash&amp;ref_src=twsrc%5Etfw">#TimesUp</a> <a href="https://twitter.com/hashtag/MeToo?src=hash&amp;ref_src=twsrc%5Etfw">#MeToo</a> <a href="https://twitter.com/hashtag/AzizAnsari?src=hash&amp;ref_src=twsrc%5Etfw">#AzizAnsari</a> <a href="https://t.co/p7q0fjSsh0">https://t.co/p7q0fjSsh0</a></p>&mdash; Katie Way (@k80way) <a href="https://twitter.com/k80way/status/952327321431756801?ref_src=twsrc%5Etfw">13 janvier 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<br><br>
+
+Finally, this tweet from Katie Way denounces Aziz Ansari, a famous American actor. Not surprisingly, all these popular tweets have in common that they denounce someone or something (Trump, Roy Moore, the double standard, Aziz Ansari).
 
 <br>
 
