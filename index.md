@@ -57,7 +57,7 @@ The hashtag list has been arbitrarily chosen by us among the most frequent hasht
 
 <br><br>
 
-Resulting from this process, in the interactive figure below, you can select a hashtag to visualize the associated activity on Twitter.
+Resulting from this process, in the interactive figure below, you can select a hashtag to visualize the associated activity on Twitter. Black arrows for the above events also appear at each corresponding date after selecting a hashtag.
 
 <center>
 {% include buttons.html %}
