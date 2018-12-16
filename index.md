@@ -50,7 +50,6 @@ The hashtag list has been arbitrarily chosen by us among the most frequent hasht
 <li> <b>8 January 2018</b> : <i>Golden Globe's</i>. "For too long women have not been heard or believed if they dare speak the truth to the power of those men. But their time is up. Their time is up.”, said Oprah Winfrey duting her speech at the Golden Globe's. </li>
 
 <li> <b>21 January 2018</b> : <i>Women's march</i> (USA). This march is aimed towards is to gather the political power of diverse women and their communities to create a change in the society. They strive to break down the system of oppression with the means of nonviolent action lead by morality and reverence. The #MeToo movement had become "a galvanizing force at many of the rallies".
-</ul>
 
 <br><br>
 
