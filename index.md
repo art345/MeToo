@@ -143,7 +143,7 @@ This is the tweet in our dataset that has been the most retweeted.
 
 <br>
 
-<img src="/img/newplot.png" alt="Retweet percent" style="max-width: 100px;">
+<img src="/img/newplot.png" alt="Retweet percent" style="max-width: 300px;">
 
 </center>
 
