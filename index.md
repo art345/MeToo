@@ -35,7 +35,26 @@ subtitle: A story telling through data
   
 <h1> Explore the movement timeline </h1>
 
-Please select a hashtag to visualize the associated activity on Twitter.
+<br><br>
+
+Let's begin by exploring the movement activity by hashtag, and let's try to correlate the activity peaks with known major events. To do so, we computed the number of tweets containing a given hashtag, for each day. We will assume that the distribution over time of our dataset is representative of the real distribution on Twitter ; which is a reasonable assumption since the tweets have been randomly extracted from Twitter.
+
+<br><br>
+
+The hashtag list has been arbitrarily chosen by us among the most frequent hashtags in our dataset, based on relevance and interest. Thereafter, we looked for the major events in the movement and in the period of time of our dataset. Here is the resulting event list :
+- Accusation of Roy Moore
+- Hollywood march
+- MeToo congress act
+- Uma Thurman accuses Harvey Weinstein
+- Time's person of the year
+- Election for senate in Alabama
+- Meryl Streep silence is pointed out
+- Golden Globe's
+- Women's march
+
+<br><br>
+
+Resulting from this process, in the interactive figure below, you can select a hashtag to visualize the associated activity on Twitter.
 
 {% include buttons.html %}
 
