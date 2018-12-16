@@ -65,12 +65,13 @@ Resulting from this process, in the interactive figure below, you can select a h
   
 <br><br>
 
-In this timeline, we can clearly correlate some events with activity peaks. For example, without any surprise, the peak of activity for the hashtag #goldenglobes happens the exact day of the 2018 Golden's Globes. Likewise, the activity associated with #roymoore begins just after the accusation of Roy Moore on November 9th 2017. More interestingly, we can see that the very popular #timesup is correlated with the Golden Globe's event : actually, it corresponds to the speech of Oprah Winfrey who said "their time is up" during the Golden Globe's. The hashtag #sheknew, a bit enigmatic, is also more understood when when we realize that it appears just after that the silence of Meryl Streep is pointed out about Harvey Weinstein misconduct. It actually makes reference to the silence of Meryl Streep ("she knew") ; there were even some posters in the street denouncing this silence.
+In this timeline, we can clearly correlate some events with activity peaks. For example, without any surprise, the peak of activity for the hashtag #goldenglobes happens the exact day of the 2018 Golden's Globes. Likewise, the activity associated with #roymoore begins just after the accusation of Roy Moore on November 9th 2017. More interestingly, we can see that the very popular #timesup is correlated with the Golden Globe's event : actually, it corresponds to the speech of Oprah Winfrey who said "their time is up" during the Golden Globe's. The hashtag #sheknew, a bit enigmatic, is also more understood when when we realize that it appears just after that the silence of Meryl Streep is pointed out about Harvey Weinstein misconduct. It actually makes reference to the silence of Meryl Streep ("she knew") ; there were even posters in the street denouncing this silence.
   
 <br><br>
 
 <center>
 <h1> Tweeting is sharing </h1>
+</center>
 
   
 <br><br>
