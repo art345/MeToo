@@ -34,6 +34,7 @@ Let's begin by exploring the movement activity by hashtag, and let's try to corr
 <br><br>
 
 The hashtag list has been arbitrarily chosen by us among the most frequent hashtags in our dataset, based on relevance and interest. Thereafter, we looked for the major events in the movement and in the period of time of our dataset. Here is the resulting event list :
+<br><br>
 
 <ul>
   <li> <b>9 November 2017</b> : <i>Accusation of Roy Moore</i>. In November 2017, nine women accused Roy Moore (a USA Senate candidate and a former Chief Justice of the Supreme Court of Alabama) of sexual misconduct. </li>
