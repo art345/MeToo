@@ -37,6 +37,8 @@ subtitle: A story telling through data
 
 <br><br>
 
+<div style="text-align: justify">
+
 Let's begin by exploring the movement activity by hashtag, and let's try to correlate the activity peaks with known major events. To do so, we computed the number of tweets containing a given hashtag, for each day. We will assume that the distribution over time of our dataset is representative of the real distribution on Twitter ; which is a reasonable assumption since the tweets have been randomly extracted from Twitter.
 
 <br><br>
@@ -66,6 +68,8 @@ The hashtag list has been arbitrarily chosen by us among the most frequent hasht
 <br><br>
 
 Resulting from this process, in the interactive figure below, you can select a hashtag to visualize the associated activity on Twitter.
+
+</div>
 
 {% include buttons.html %}
 
