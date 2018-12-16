@@ -98,7 +98,7 @@ Regarding the percentages and numbers presented, all percentages were rounded up
 
 <br>
 
-<img src="img/icons/family.png" title="Family" width="50"/> &nbsp; <img src="img/icons/friends.png" title="Friends" width="50"/> &nbsp; <img src="img/icons/religion.png" title="Religion" width="50"/>  <img src="img/icons/leisure.png" title="Leisure" width="50"/>  &nbsp; <img src="img/icons/work.png" title="Work" width="50"/> &nbsp; <img src="img/icons/home.png" title="Home" width="50"/>
+<img src="img/icons/family.png" title="Family: 'daughter, dad, aunt' " width="50"/> &nbsp; <img src="img/icons/friends.png" title="Friends: 'buddy, neighbor'" width="50"/> &nbsp; <img src="img/icons/religion.png" title="Religion: 'altar, church'" width="50"/>  <img src="img/icons/leisure.png" title="Leisure: 'cook, chat, movie'" width="50"/>  &nbsp; <img src="img/icons/work.png" title="Work: 'job, majors'" width="50"/> &nbsp; <img src="img/icons/home.png" title="Home: 'kitchen, landlord'" width="50"/>
 
 <br>
 
@@ -111,7 +111,7 @@ We see that the #meToo phenomenon is a phenomenon that “hits close to home.”
 <h1> Thematics Analysis All Tweets </h1>
 <br>
 
-<img src="img/icons/bio.png" title="Biology" width="50"/><img src="img/icons/body.png" title="Body" width="50"/> &nbsp; <img src="img/icons/social.png" title="Social" width="50"/> &nbsp; <img src="img/icons/health.png" title="Health" width="50"/> &nbsp; <img src="img/icons/human.png" title="Humans" width="50"/> &nbsp; <img src="img/icons/death.png" title="Death" width="50"/> &nbsp; <img src="img/icons/sexual.png" title="Sexual" width="50"/> &nbsp; <img src="img/icons/money.png" title="Money" width="50"/>
+<img src="img/icons/bio.png" title="Biology: 'eat, blood, pain'" width="50"/><img src="img/icons/body.png" title="Body: 'cheek, hands, spit'" width="50"/> &nbsp; <img src="img/icons/social.png" title="Social: 'mate, talk, they'" width="50"/> &nbsp; <img src="img/icons/health.png" title="Health: 'clinic, flu, pill'" width="50"/> &nbsp; <img src="img/icons/human.png" title="Humans'" width="50"/> &nbsp; <img src="img/icons/death.png" title="Death: 'bury, coffin, kill'" width="50"/> &nbsp; <img src="img/icons/sexual.png" title="Sexual: 'horny, love, incest'" width="50"/> &nbsp; <img src="img/icons/money.png" title="Money: 'audit, cash, owe'" width="50"/>
 
 <br>
 
@@ -130,13 +130,14 @@ The “social” thematic of the pie chart can be linked to Topic Clustering ele
 
 <h1> Implication, Group Dynamics and Certitude Analysis All Tweets </h1>
 
-<br>
+<img src="img/icons/I.png" title="I" width="50"/> &nbsp; <img src="img/icons/you.png" title="You" width="50"/>&nbsp; <img src="img/icons/shehe.png" title="She / He" width="50"/>&nbsp; <img src="img/icons/we.png" title="We" width="50"/> &nbsp; <img src="img/icons/they.png" title="They" width="50"/> &nbsp; <img src="img/icons/achiev.png" title="Achievement" width="50"/>&nbsp; <img src="img/icons/certain.png" title="Certainty: 'always, never'" width="50"/>&nbsp; <img src="img/icons/uncertain.png" title="Tentative: 'maybe, perhaps'" width="50"/> 
 
-<img src="img/icons/hear.png" title="Hear" width="50"/> &nbsp; <img src="img/icons/cogmech.png" title="Cognitive Mechanisms" width="50"/> &nbsp; <img src="img/icons/perception.png" title="Perception" width="50"/> &nbsp; <img src="img/icons/see.png" title="See" width="50"/>&nbsp; <img src="img/icons/feel.png" title="Feel" width="50"/> &nbsp; <img src="img/icons/motion.png" title="Motion" width="50"/>
 
 <br>
 
 {% include style-barImpl.html %}
+
+<img src="img/icons/hear.png" title="Hear:'listen, hearing'" width="50"/> &nbsp; <img src="img/icons/insight.png" title="Insight: 'think, know'" width="50"/>&nbsp; <img src="img/icons/cogmech.png" title="Cognitive Mechanisms: 'cause, know, ought'" width="50"/> &nbsp; <img src="img/icons/perception.png" title="Perception: 'look, heard, feeling'" width="50"/> &nbsp; <img src="img/icons/see.png" title="See: 'view, saw, seen'" width="50"/>&nbsp; <img src="img/icons/feel.png" title="Feel: 'feels, touch'" width="50"/> &nbsp; <img src="img/icons/motion.png" title="Motion: 'arrive, car, go'" width="50"/>
 
 <br>
 
@@ -163,7 +164,7 @@ The level of certitude of the speakers was also assessed. It can be observed tha
 <h1> Positive or Negative Emotional Analysis All Tweets </h1>
 <br>
 
-<img src="img/icons/negemo.png" title="Negative Emotion" width="50"/> &nbsp; <img src="img/icons/sad.png" title="Sadness" width="50"/> &nbsp; <img src="img/icons/negate.png" title="Negation" width="50"/> &nbsp; <img src="img/icons/anxiety.png" title="Anxiety" width="50"/> &nbsp; <img src="img/icons/swear.png" title="Swearing" width="50"/> &nbsp; <img src="img/icons/anger.png" title="Anger" width="50"/> &nbsp; <img src="img/icons/posemo.png" title="Positive Emotion" width="50"/> &nbsp; <img src="img/icons/achiev.png" title="Achievement" width="50"/> &nbsp; <img src="img/icons/assent.png" title="Assent" width="50"/>
+<img src="img/icons/negemo.png" title="Negative Emotion: 'hurt, ugly, nasty'" width="50"/> &nbsp; <img src="img/icons/sad.png" title="Sadness: 'crying, grief, sad'" width="50"/> &nbsp; <img src="img/icons/negate.png" title="Negation: 'no, not, never'" width="50"/> &nbsp; <img src="img/icons/anxiety.png" title="Anxiety: 'worried, fearful'" width="50"/> &nbsp; <img src="img/icons/swear.png" title="Swearing: 'fuck, damn, shit'" width="50"/> &nbsp; <img src="img/icons/anger.png" title="Anger: 'hate, kill, annoyed'" width="50"/> &nbsp; <img src="img/icons/posemo.png" title="Positive Emotion: 'love, nice, sweet'" width="50"/> &nbsp; <img src="img/icons/achiev.png" title="Achievement" width="50"/> &nbsp; <img src="img/icons/assent.png" title="Assent:'agree, OK, yes'" width="50"/>
 
 <br>
 
