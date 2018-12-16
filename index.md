@@ -213,10 +213,10 @@ We can take as example the famously controversial tweet of DanBilzerian, subsequ
 
 <br>
 <div style="text-align: justify">
-By doing a sentimental analysis overtime we wanted to see if some evolution in the themes, emotions, implications, etc. would pop up during the development of the #metoo movement and if some particular tendencies would be discernible in relation to certain events. 
+By doing a sentimental analysis over time we wanted to see if some evolution in the themes, emotions, implications, etc. would pop up during the development of the #metoo movement and if some particular tendencies would be discernible in relation to certain events. 
 
-<br><br>
-<font size="2"> Note : to explore the following graphs you can double-click on the legend to isolate one trace (exemple double-click on 'Body' to see only the dots corresponding to this category).</font>
+<br>
+<font size="2"> **Note** : to explore the following graphs you can double-click on the legend to isolate one trace (exemple double-click on 'Body' to see only the dots corresponding to this category).</font>
 </div>
 
 <h1> Thematics & Context </h1>
