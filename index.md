@@ -84,7 +84,7 @@ This is the tweet in our dataset that has been the most retweeted.
 <h1> Thematics Analysis All Tweets </h1>
 <br>
 
-<img src="img/icons/bio.png" title="Biology" width="50"/><img src="img/icons/body.png" title="Body" width="50"/><img src="img/icons/social.png" title="Social" width="50"/><img src="img/icons/health.png" title="Health" width="50"/><img src="img/icons/human.png" title="Humans" width="50"/><img src="img/icons/death.png" title="Death" width="50"/><img src="img/icons/sexual.png" title="Sexual" width="50"/><img src="img/icons/money.png" title="Money" width="50"/>
+<img src="img/icons/bio.png" title="Biology" width="50"/><img src="img/icons/body.png" title="Body" width="50"/> &nbsp; <img src="img/icons/social.png" title="Social" width="50"/> &nbsp; <img src="img/icons/health.png" title="Health" width="50"/> &nbsp; <img src="img/icons/human.png" title="Humans" width="50"/> &nbsp; <img src="img/icons/death.png" title="Death" width="50"/> &nbsp; <img src="img/icons/sexual.png" title="Sexual" width="50"/> &nbsp; <img src="img/icons/money.png" title="Money" width="50"/>
 
 <br>
 
@@ -96,7 +96,7 @@ This is the tweet in our dataset that has been the most retweeted.
 
 <br>
 
-<img src="img/icons/hear.png" title="Hear" width="50"/><img src="img/icons/cogmech.png" title="Cognitive Mechanisms" width="50"/><img src="img/icons/perception.png" title="Perception" width="50"/><img src="img/icons/see.png" title="See" width="50"/><img src="img/icons/feel.png" title="Feel" width="50"/><img src="img/icons/motion.png" title="Motion" width="50"/>
+<img src="img/icons/hear.png" title="Hear" width="50"/> &nbsp; <img src="img/icons/cogmech.png" title="Cognitive Mechanisms" width="50"/> &nbsp; <img src="img/icons/perception.png" title="Perception" width="50"/> &nbsp; <img src="img/icons/see.png" title="See" width="50"/>&nbsp; <img src="img/icons/feel.png" title="Feel" width="50"/> &nbsp; <img src="img/icons/motion.png" title="Motion" width="50"/>
 
 <br>
 
@@ -112,7 +112,7 @@ This is the tweet in our dataset that has been the most retweeted.
 <h1> Positive or Negative Emotional Analysis All Tweets </h1>
 <br>
 
-<img src="img/icons/negemo.png" title="Negative Emotion" width="50"/><img src="img/icons/sad.png" title="Sadness" width="50"/><img src="img/icons/negate.png" title="Negation" width="50"/><img src="img/icons/anxiety.png" title="Anxiety" width="50"/><img src="img/icons/swear.png" title="Swearing" width="50"/><img src="img/icons/anger.png" title="Anger" width="50"/><img src="img/icons/posemo.png" title="Positive Emotion" width="50"/><img src="img/icons/achiev.png" title="Achievement" width="50"/><img src="img/icons/assent.png" title="Assent" width="50"/>
+<img src="img/icons/negemo.png" title="Negative Emotion" width="50"/> &nbsp; <img src="img/icons/sad.png" title="Sadness" width="50"/> &nbsp; <img src="img/icons/negate.png" title="Negation" width="50"/> &nbsp; <img src="img/icons/anxiety.png" title="Anxiety" width="50"/> &nbsp; <img src="img/icons/swear.png" title="Swearing" width="50"/> &nbsp; <img src="img/icons/anger.png" title="Anger" width="50"/> &nbsp; <img src="img/icons/posemo.png" title="Positive Emotion" width="50"/> &nbsp; <img src="img/icons/achiev.png" title="Achievement" width="50"/> &nbsp; <img src="img/icons/assent.png" title="Assent" width="50"/>
 
 <br>
 
