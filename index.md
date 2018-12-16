@@ -42,9 +42,11 @@ Please select a hashtag to visualize the associated activity on Twitter.
 
 <h1> Tweeting is sharing </h1>
   
-  <img src="/img/newplot.png" alt="Retweet percent" style="max-width: 300px;" ALIGN="right" HSPACE="30"/> An important thing to notice is that most of the tweets within this movement are retweets. It shows that this mobilization is over all a process of sharing stories of others and showing support or disagreement. In any cases, this movement is not the expression of isolated testimonies.
+<br><br>
 
-<br>
+  <img src="/img/newplot.png" alt="Retweet percent" style="max-width: 300px;" ALIGN="right" HSPACE="30"/> An important thing to notice is that -- as in  most of the tweets within this movement are retweets. Indeed, almost 3 tweets over 4 are retweets. It shows that this mobilization is over all a process of sharing stories of others and showing support or disagreement. In any cases, this movement is not the expression of isolated testimonies.
+
+<br><br>
 
 Here are the tweets in our dataset that has been the most retweeted.
 
