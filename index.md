@@ -272,7 +272,7 @@ It all boils down to someone, somewhere, telling their stories and others listen
 
 <br><br><br><br>
 
-<font size="4"> References:
+<font size="2"> References:
  
 <br>
 [1]	J. W. Pennebaker, R. L. Boyd, K. Jordan, and K. Blackburn, “The Development and Psychometric Properties of LIWC2015,” p. 26.
