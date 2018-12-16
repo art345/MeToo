@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: The MeToo movement: A story telling through data
 subtitle: A story telling through data
 ---
