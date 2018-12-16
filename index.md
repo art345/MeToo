@@ -52,7 +52,7 @@ Please select a hashtag to visualize the associated activity on Twitter.
 
 <br><br>
 
-Here are the tweets in our dataset that has been the most retweeted.
+Here are the tweets in our dataset that have been the most retweeted.
 
 <br><br>
 
@@ -75,6 +75,8 @@ Here are the tweets in our dataset that has been the most retweeted.
 <br>
 
 <h1> Topic clustering </h1>
+
+In this interactive figure, you can visualize the main topics discussed among the movement. Click on "next topic" to visualize successively all the topics. You can also click on the words at the right to see in which cluster(s) it is the most frequent.
 
 <br>
 
