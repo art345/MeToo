@@ -73,7 +73,7 @@ This is the tweet in our dataset that has been the most retweeted.
 
 <br>
 
-<img src="img/icons/family.png" title="Family" width="50"/> &nbsp; <img src="img/icons/friends.png" title="Friends" width="50"/> &nbsp; <img src="img/icons/religion.png" title="Religion" width="50"/> &nbsp; <img src="img/icons/leisure.png" title="Leisure" width="50"/>  &nbsp; <img src="img/icons/work.png" title="Work" width="50"/> &nbsp; <img src="img/icons/home.png" title="Home" width="50"/>
+<img src="img/icons/family.png" title="Family" width="50"/> &nbsp; <img src="img/icons/friends.png" title="Friends" width="50"/> &nbsp; <img src="img/icons/religion.png" title="Religion" width="50"/>  <img src="img/icons/leisure.png" title="Leisure" width="50"/>  &nbsp; <img src="img/icons/work.png" title="Work" width="50"/> &nbsp; <img src="img/icons/home.png" title="Home" width="50"/>
 
 <br>
 
