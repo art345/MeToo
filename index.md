@@ -4,6 +4,7 @@ title: The MeToo movement
 subtitle: A story telling through data
 ---
 
+<center>
 <div style="text-align: justify">
   
 <h1> The #MeToo movement :</h1>
@@ -260,6 +261,9 @@ Surprisingly, from this data analysis, gender does not play as big of a role as 
 It all boils down to someone, somewhere, telling their stories and others listening and sharing. 
 
 <br><br><br><br>
+
+</div>
+</center>
 
 <font size="2"> References:
  
