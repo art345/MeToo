@@ -247,14 +247,14 @@ Indeed we can observe that the spikes of negative emotions almost always corresp
 <br>
 
 <h1>What does this all add up to ? ...</h1>
-
+<div style="text-align: justify">
 #metoo was and remains a very complex movement with an immense diversity of thematics and contexts. Our dataset covers a limited time lapse but it seems the #metoo movement is here to last. <br><br>
 
 Seeing the certainty in the speech of our tweets we can clearly see how the technology empowered women and people in general to speak out against sexual harassement and sexual abuse. Twitter is the essential tool to this wild-fire movement, it could not have happened without social media as can be seen by each spike in the data that almost instantly follows a major event in the world.<br><br>
 
 Surprisingly, from this data analysis, gender does not play as big of a role as one could have expected. The implications and emotions expressed by each gender were almost identical. <br><br>
 It all boils down to someone, somewhere, telling their stories and others listening and sharing. 
-
+</div>
 </center>
 
 
