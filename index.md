@@ -225,7 +225,7 @@ The thematics analysis doesn't show any huge trends. We can still notice an incr
 
 <br>
 
-The context analysis on the other hand shows some interesting tendencies. For example, the leisure category includes 'movie*', 'actor*' and its evolution can be associated with event in the holywood world. In deed events like the golden globes or the release of the Time's person of the year correspond by a few days to an increase in this category. 
+The context analysis on the other hand shows some interesting tendencies. For example, the leisure category includes 'movie*', 'actor*' and its evolution can be associated with events in the holywood world. In deed a ceremony like the golden globes or the release of the Time's person of the year correspond by a few days to an increase in this category. 
 </div>
 <br>
 
@@ -236,11 +236,13 @@ The context analysis on the other hand shows some interesting tendencies. For ex
 <h1> Emotions & Implications </h1>
 <br>
 <div style="text-align: justify">
-The more noticeable tendency on those graphs might be the connection between negative/positive emotions, personal/impersonal implication and solo/group dynamic.
+  
+The more noticeable tendency on those graphs might be the connection between negative or positive emotions, the personal implication and the solo or group dynamic.
 <br>
 
-We can observe that the pics of negative emotions almost always correspond to a pic in the impersonal ('You', 'He/She', 'They')  implication and a pic in the solo ('I', 'You', 'He') dynamic. One way to interpret it is to imagine that most of the solo and impersonal tweets are the one with a 'he/she' word in it so are about sharing an other person abuse story or accusing someone. 
+In deed we can observe that the pics of negative emotions almost always correspond to a pic in the impersonal ('You', 'He-She', 'They')  implication and a pic in the solo ('I', 'You', 'He') dynamic. One way to interpret it is to imagine that most of the solo and impersonal tweets are the one with 'he' or 'she' words in it so are about sharing an other person abuse story or accusing someone. 
 </div>
+
 {% include TimeSentimental1.html %}
 
 <br>
