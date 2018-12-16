@@ -166,12 +166,12 @@ We see that the #meToo phenomenon is a phenomenon that “hits close to home.”
 People tend to speak in the past or future tenses. #meToo is not a spur of the moment occurrence using the present. It either reaches out to the past, like the many sexual abuse narrative resurfacing after decades, or latches on to the future, to change the mentalities through each user expressing their opinion on the stories being told.  
 
 
-</center>
+<center>
 <h1> Implication, Group Dynamics and Certitude Analysis All Tweets </h1>
 
 <img src="img/icons/I.png" title="I" width="50"/> &nbsp; <img src="img/icons/you.png" title="You" width="50"/>&nbsp; <img src="img/icons/shehe.png" title="She / He" width="50"/>&nbsp; <img src="img/icons/we.png" title="We" width="50"/> &nbsp; <img src="img/icons/they.png" title="They" width="50"/> &nbsp; <img src="img/icons/award.png" title="Achievement" width="50"/>&nbsp; <img src="img/icons/certain.png" title="Certainty: 'always, never'" width="50"/>&nbsp; <img src="img/icons/uncertain.png" title="Tentative: 'maybe, perhaps'" width="50"/> 
 
-<br>
+<br><br>
 
 {% include style-barImpl.html %}
 
