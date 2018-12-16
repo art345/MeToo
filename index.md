@@ -210,22 +210,23 @@ We can take as example the famously controversial tweet of DanBilzerian, subsequ
 <h1> Sentimental Analysis over Time </h1>
 
 <br>
-
+<div style="text-align: justify">
 Note : to explore this graphs you can double-click on legend to isolate on trace (exemple double click on 'Body' to see only the dots corresponding to this category)
 
 <br>
 
 By doing a sentimental analysis overtime we wanted to see if some evolution in the themes, emotions, implications, etc. would pop up during the development of the #metoo movement and if some particular tendencies would be discernible in relation to certain events. 
+</div>
 
 <h1> Thematics & Context </h1>
 <br>
-
+<div style="text-align: justify">
 The thematics analysis doesn't show any huge trends. We can still notice an increase in the social category up to the 21st of january corresponding to the Women's march 2018. 
 
 <br>
 
 The context analysis on the other hand shows some interesting tendencies. For example, the leisure category includes 'movie*', 'actor*' and its evolution can be associated with event in the holywood world. In deed events like the golden globes or the release of the Time's person of the year correspond by a few days to an increase in this category. 
-
+</div>
 <br>
 
 {% include TimeSentimental2.html %}
@@ -234,12 +235,12 @@ The context analysis on the other hand shows some interesting tendencies. For ex
 
 <h1> Emotions & Implications </h1>
 <br>
-
+<div style="text-align: justify">
 The more noticeable tendency on those graphs might be the connection between negative/positive emotions and respectively personal(solo)/impersonal(group) implication. 
 <br>
 
 We can observe that the pics of negative emotions almost always correspond to a pic in the impersonal ('You', 'He/She', 'They')  implication and a pic in the solo ('I', 'You', 'He') dynamic. One way to interpret it is to imagine that most of the solo and impersonal tweets are the one with a 'he/she' word in it so are about sharing an other person abuse story or accusing someone. 
-
+</div>
 {% include TimeSentimental1.html %}
 
 <br>
