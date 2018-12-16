@@ -9,9 +9,9 @@ subtitle: A story telling through data
    <center>
 <h1> The #MeToo movement :</h1>
 <h3> A Temporal, Gender Based and Sentimental Perspective </h3>
-  </center>
 
 {% include wordcloud.html %}
+  </center>
 
 <br>
   
@@ -23,7 +23,9 @@ subtitle: A story telling through data
   
   <br><br>
   
+<center>
 <h1> Explore the movement timeline </h1>
+</center>
 
 <br><br>
 
@@ -56,11 +58,13 @@ The hashtag list has been arbitrarily chosen by us among the most frequent hasht
 
 Resulting from this process, in the interactive figure below, you can select a hashtag to visualize the associated activity on Twitter.
 
+<center>
 {% include buttons.html %}
-
+  
 <br><br>
 
 <h1> Tweeting is sharing </h1>
+</center>
   
 <br><br>
 
@@ -72,6 +76,7 @@ Here are the tweets in our dataset that have been the most retweeted.
 
 <br><br>
 
+<center>
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">The 16 women who accused Trump of sexual assault are telling their story in one video-please share this far &amp; wide. RT if you agree it’s time for Trump to be held accountable for his sexual misconduct.<a href="https://twitter.com/hashtag/TrumpSexPredator?src=hash&amp;ref_src=twsrc%5Etfw">#TrumpSexPredator</a> <a href="https://twitter.com/hashtag/AMJoy?src=hash&amp;ref_src=twsrc%5Etfw">#AMJoy</a><a href="https://t.co/hNIqZEI54G">pic.twitter.com/hNIqZEI54G</a></p>&mdash; Scott Dworkin (@funder) <a href="https://twitter.com/funder/status/932703161596432384?ref_src=twsrc%5Etfw">20 novembre 2017</a></blockquote>
 
 <br><br>
@@ -91,16 +96,19 @@ Here are the tweets in our dataset that have been the most retweeted.
 <br>
 
 <h1> Topic clustering </h1>
+</center>
 
 In this interactive figure, you can visualize the main topics discussed among the movement. Click on "next topic" to visualize successively all the topics. You can also click on the words at the right to see in which cluster(s) it is the most frequent.
   
 <br><br>
 
+<center>
 {% include topic_clustering.html %}
 
 <br>
 
 <h1> Sentimental Analysis on All Tweets </h1>
+</center>
 
   From all the tweets that were sent out with a #meToo, one can wonder what was the overall sentiment of these tweets. The sentimental analysis was performed using LIWC, a text analysis application called Linguistic Inquiry and Word Count: an efficient and effective method for studying the various emotional, cognitive, and structural components present in individuals’ verbal and written speech samples. [1] 
  <br>
@@ -110,6 +118,7 @@ In this interactive figure, you can visualize the main topics discussed among th
 <br>
   Regarding the percentages and numbers presented, all percentages were rounded up for a cleaner presentation. Hence no numbers are absolutes, all numbers serve to give you a feeling over the dataset. The most pertinent way to look at the number of a category is to consider it respectively to the other percentage numbers of the other categories in that same analysis.
 
+<center>
 <h1> Thematics Analysis All Tweets </h1>
 <br>
 
@@ -118,6 +127,7 @@ In this interactive figure, you can visualize the main topics discussed among th
 <br>
 
 {% include pie_chartThematics.html %}
+</center>
 
 <br>
 
@@ -128,6 +138,7 @@ In this interactive figure, you can visualize the main topics discussed among th
   We observe that the following recurrent thematics are notably the body and health, which echo the Topic Clustering thematics such as “assault” and “violence,” correlated to body and health. The “social” thematic of the pie chart can be linked to Topic Clustering elements such as “share” and “story” indicating a social communication on the #meToo matter. 
 <br>
 
+<center>
 <h1> Context Analysis All Tweets </h1>
 
 <br>
@@ -137,22 +148,25 @@ In this interactive figure, you can visualize the main topics discussed among th
 <br>
 
 {% include pieplotContext.html %}
+</center>
 
 <br>
 
 We see that the #meToo phenomenon is a phenomenon that “hits close to home.”  Family and friends are contexts that are recurrent in the tweet’s speech. We feel people are being affected in their personal lives and either show or gain support from their friends and family.
 
+<center>
 <h1> Temporal Speech </h1>
 <br>
 
 <img src="img/icons/past.png" title="Past: 48%" width="100"/> &nbsp; <img src="img/icons/present.png" title="Present: 4%" width="100"/> &nbsp; <img src="img/icons/future.png" title="Future: 48%" width="100"/> 
+</center>
 
 <br><br>
 
 People tend to speak in the past or future tenses. #meToo is not a spur of the moment occurrence using the present. It either reaches out to the past, like the many sexual abuse narrative resurfacing after decades, or latches on to the future, to change the mentalities through each user expressing their opinion on the stories being told.  
 
 
-
+</center>
 <h1> Implication, Group Dynamics and Certitude Analysis All Tweets </h1>
 
 <img src="img/icons/I.png" title="I" width="50"/> &nbsp; <img src="img/icons/you.png" title="You" width="50"/>&nbsp; <img src="img/icons/shehe.png" title="She / He" width="50"/>&nbsp; <img src="img/icons/we.png" title="We" width="50"/> &nbsp; <img src="img/icons/they.png" title="They" width="50"/> &nbsp; <img src="img/icons/award.png" title="Achievement" width="50"/>&nbsp; <img src="img/icons/certain.png" title="Certainty: 'always, never'" width="50"/>&nbsp; <img src="img/icons/uncertain.png" title="Tentative: 'maybe, perhaps'" width="50"/> 
@@ -166,6 +180,7 @@ People tend to speak in the past or future tenses. #meToo is not a spur of the m
 <br>
 
 {% include pie_chartImplicationHow.html %}
+</center>
 
 <br>
 The implication and group dynamics of the movement could be investigated using LIWC. 
@@ -183,6 +198,7 @@ For group dynamics, the repetition of “we” and all plural forms of pronouns 
 
 We see that people tend to "hear" stories in an impersonnal and individualist yet assertive manner. This conforts the notion that #metoo is about storytelling and broadcasting to the world these stories. 
   
+<center>
 <h1> Positive or Negative Emotional Analysis All Tweets </h1>
 <br>
 
@@ -191,6 +207,7 @@ We see that people tend to "hear" stories in an impersonnal and individualist ye
 <br>
 
 {% include basic-barEmotions.html %}
+</center>
 
 <br>
 
@@ -202,10 +219,12 @@ We can take as example the famously controversial tweet of DanBilzerian, subsequ
 <br>
 " RT @DanBilzerian: This #metoo shit is getting out of control, guys getting their lives ruined over touching a girl's back or hitting on some "
   
+<center>
 <h1> Sentimental Analysis for Gender </h1>
 <br>
 
 {% include bar_pyramidGender.html %}
+</center>
 
 <br>
 
@@ -215,7 +234,9 @@ We can take as example the famously controversial tweet of DanBilzerian, subsequ
 
 <br><br>
 
+<center>
 <h1> Sentimental Analysis over Time </h1>
+</center>
 
 <br>
 By doing a sentimental analysis over time we wanted to see if some evolution in the themes, emotions, implications, etc. would pop up during the development of the #metoo movement and if some particular tendencies would be discernible in relation to certain events. 
@@ -223,7 +244,9 @@ By doing a sentimental analysis over time we wanted to see if some evolution in 
 <br>
 <font size="2"> Note : to explore the following graphs you can double-click on the legend to isolate one trace (for example double-click on 'Body' to see only the dots corresponding to this category).</font>
 
+<center>
 <h1> Thematics & Context </h1>
+</center>
 <br>
 The thematics analysis doesn't show any huge trends. We can still notice an increase in the "social" category up to the 21st of January corresponding to the Women's March 2018. In deed the "social" category of LIWC includes the word "woman".
 
@@ -232,24 +255,27 @@ The thematics analysis doesn't show any huge trends. We can still notice an incr
 The context analysis on the other hand shows some interesting tendencies. For example, the leisure category includes "movie*", "actor*" and its evolution can be associated with events in the holywood world. Indeed a ceremony like the golden globes or the release of the Time's person of the year correspond by a few days to an increase in this category. 
 <br>
 
+<center>
 {% include TimeSentimental2.html %}
 
 <br>
 
 <h1> Emotions & Implications </h1>
 <br>
+</center>
 
 The more noticeable tendency on these graphs might be the connection between negative or positive emotions, the personal implication and the solo or group dynamic.
 <br><br>
 
 Indeed we can observe that the spikes of negative emotions almost always correspond to a spike in the impersonal ("you", "he-she", "they")  implication and a spike in the solo ("I", "you", "he"-"she") dynamic. One way to interpret it is to imagine that most of the solo and impersonal tweets are the one with "he" or "she" words in it so are about sharing another person abuse story or accusing someone. 
 
-
+<center>
 {% include TimeSentimental1.html %}
 
 <br>
 
 <h1>What does this all add up to ? ...</h1>
+</center>
 
 #metoo was and remains a very complex movement with an immense diversity of thematics and contexts. Our dataset covers a limited time lapse but it seems the #metoo movement is here to last. <br><br>
 
