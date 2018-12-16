@@ -7,7 +7,9 @@ title: The MeToo movement
 description: We are a group of three EPFL students from Applied Data Analysis course.
 
 # List of links in the navigation bar
-navbar-links:
+#navbar-links:
+#About us: "page"
+#Resources: "resources"
 
 # Change all these values or delete the ones you don't want (these appear in the footer).
 # Important: you must keep the "name" parameter, everything else you can remove
