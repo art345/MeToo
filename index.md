@@ -177,6 +177,9 @@ We observe both strong peaks of positive and negative emotions and attitudes. Th
 
 However, we cannot distinguish if perhaps these negative emotions are perhaps against the movement itself. We are aware that some tweets in our dataset are outspokenly against the #meToo movement. 
 
+We can take as example the famously controversial tweet of DanBilzerian, subsequently deleted from Twitter:
+" RT @DanBilzerian: This #metoo shit is getting out of control, guys getting their lives ruined over touching a girl's back or hitting on some "
+
 <h1> Sentimental Analysis for Gender </h1>
 <br>
 
